@@ -15,7 +15,6 @@ MarkupSafe==1.1.1
 nbformat==5.0.8
 pigar==0.10.0
 pyrsistent==0.17.3
-pywin32==300
 requests==2.25.0
 six==1.15.0
 traitlets==5.0.5
