@@ -2,3 +2,8 @@
 
 # C:\Users\Wills\dev\exercise.python_flask-heroku-deployment\web.py: 1
 Flask == 1.1.2
+click>=5.1
+itsdangerous>=0.24
+Werkzeug>=0.15
+Jinja2>=2.10.1
+MarkupSafe>=0.23
